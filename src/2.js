@@ -1,1 +1,1 @@
-/LICENSE.txt /ReleaseNotes.html /bin /cmd /dev /etc /git-bash.exe /git-cmd.exe /mingw64 /proc /tmp /unins001.dat /unins001.exe /unins001.msg /usr My Second File*/
+/*My File Edition*/
